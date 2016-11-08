@@ -14,3 +14,4 @@ Running 'make' builds SkyRing.  Git clone of SkyRing from [gerrithub.io](https:/
 
 # Licensing
 SkyRing is licensed under the Apache License, Version 2.0.  See [LICENSE](https://github.com/skyrings/skyring/blob/master/LICENSE) for the full license text.
+
