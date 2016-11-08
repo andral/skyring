@@ -11,7 +11,7 @@ install:
   - make vendor-update
 
 script:
-  - make
+  - make rpm
 
 notifications:
   email:
